@@ -1,0 +1,7 @@
+.filter-container {
+    display: flex;
+}
+
+.filter-item {
+    flex-grow: 1;
+}
